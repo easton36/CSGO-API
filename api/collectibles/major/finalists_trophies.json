@@ -1,0 +1,514 @@
+[
+    {
+        "id": "collectible-2",
+        "name": "Champion at DreamHack 2013",
+        "description": "This championship trophy was awarded to the Champion at The 2013 DreamHack SteelSeries CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/dreamhack_2013_champion_large.png"
+    },
+    {
+        "id": "collectible-3",
+        "name": "Finalist at DreamHack 2013",
+        "description": "This championship trophy was awarded to the Finalist at The 2013 DreamHack SteelSeries CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/dreamhack_2013_finalist_large.png"
+    },
+    {
+        "id": "collectible-4",
+        "name": "Semifinalist at DreamHack 2013",
+        "description": "This championship trophy was awarded to the Semifinalist at The 2013 DreamHack SteelSeries CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/dreamhack_2013_semifinalist_large.png"
+    },
+    {
+        "id": "collectible-5",
+        "name": "Quarterfinalist at DreamHack 2013",
+        "description": "This championship trophy was awarded to the Quarterfinalist at The 2013 DreamHack SteelSeries CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/dreamhack_2013_quarterfinalist_large.png"
+    },
+    {
+        "id": "collectible-6",
+        "name": "Champion at EMS One Katowice 2014",
+        "description": "This championship trophy was awarded to the Champion at The 2014 EMS One Katowice CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/katowice_2014_champion_large.png"
+    },
+    {
+        "id": "collectible-7",
+        "name": "Finalist at EMS One Katowice 2014",
+        "description": "This championship trophy was awarded to the Finalist at The 2014 EMS One Katowice CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/katowice_2014_finalist_large.png"
+    },
+    {
+        "id": "collectible-8",
+        "name": "Semifinalist at EMS One Katowice 2014",
+        "description": "This championship trophy was awarded to the Semifinalist at The 2014 EMS One Katowice CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/katowice_2014_semifinalist_large.png"
+    },
+    {
+        "id": "collectible-9",
+        "name": "Quarterfinalist at EMS One Katowice 2014",
+        "description": "This championship trophy was awarded to the Quarterfinalist at The 2014 EMS One Katowice CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/katowice_2014_quarterfinalist_large.png"
+    },
+    {
+        "id": "collectible-10",
+        "name": "Champion at ESL One Cologne 2014",
+        "description": "This championship trophy was awarded to the Champion at The ESL One Cologne 2014 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/cologne_trophy_champion_large.png"
+    },
+    {
+        "id": "collectible-11",
+        "name": "Finalist at ESL One Cologne 2014",
+        "description": "This championship trophy was awarded to the Finalist at The ESL One Cologne 2014 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/cologne_trophy_finalist_large.png"
+    },
+    {
+        "id": "collectible-12",
+        "name": "Semifinalist at ESL One Cologne 2014",
+        "description": "This championship trophy was awarded to the Semifinalist at The ESL One Cologne 2014 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/cologne_trophy_semifinalist_large.png"
+    },
+    {
+        "id": "collectible-13",
+        "name": "Quarterfinalist at ESL One Cologne 2014",
+        "description": "This championship trophy was awarded to the Quarterfinalist at The ESL One Cologne 2014 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/cologne_trophy_quarterfinalist_large.png"
+    },
+    {
+        "id": "collectible-17",
+        "name": "Champion at DreamHack Winter 2014",
+        "description": "This championship trophy was awarded to the Champion at The DreamHack Winter 2014 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/dhw_2014_champion_large.png"
+    },
+    {
+        "id": "collectible-18",
+        "name": "Finalist at DreamHack Winter 2014",
+        "description": "This championship trophy was awarded to the Finalist at The DreamHack Winter 2014 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/dhw_2014_finalist_large.png"
+    },
+    {
+        "id": "collectible-19",
+        "name": "Semifinalist at DreamHack Winter 2014",
+        "description": "This championship trophy was awarded to the Semifinalist at The DreamHack Winter 2014 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/dhw_2014_semifinalist_large.png"
+    },
+    {
+        "id": "collectible-20",
+        "name": "Quarterfinalist at DreamHack Winter 2014",
+        "description": "This championship trophy was awarded to the Quarterfinalist at The DreamHack Winter 2014 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/dhw_2014_quarterfinalist_large.png"
+    },
+    {
+        "id": "collectible-24",
+        "name": "Champion at ESL One Katowice 2015",
+        "description": "This championship trophy was awarded to the Champion at The ESL One Katowice 2015 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/kat_2015_champion_large.png"
+    },
+    {
+        "id": "collectible-25",
+        "name": "Finalist at ESL One Katowice 2015",
+        "description": "This championship trophy was awarded to the Finalist at The ESL One Katowice 2015 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/kat_2015_finalist_large.png"
+    },
+    {
+        "id": "collectible-26",
+        "name": "Semifinalist at ESL One Katowice 2015",
+        "description": "This championship trophy was awarded to the Semifinalist at The ESL One Katowice 2015 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/kat_2015_semifinalist_large.png"
+    },
+    {
+        "id": "collectible-27",
+        "name": "Quarterfinalist at ESL One Katowice 2015",
+        "description": "This championship trophy was awarded to the Quarterfinalist at The ESL One Katowice 2015 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/kat_2015_quarterfinalist_large.png"
+    },
+    {
+        "id": "collectible-31",
+        "name": "Champion at ESL One Cologne 2015",
+        "description": "This championship trophy was awarded to the Champion at The ESL One Cologne 2015 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/col_2015_champion_large.png"
+    },
+    {
+        "id": "collectible-32",
+        "name": "Finalist at ESL One Cologne 2015",
+        "description": "This championship trophy was awarded to the Finalist at The ESL One Cologne 2015 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/col_2015_finalist_large.png"
+    },
+    {
+        "id": "collectible-33",
+        "name": "Semifinalist at ESL One Cologne 2015",
+        "description": "This championship trophy was awarded to the Semifinalist at The ESL One Cologne 2015 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/col_2015_semifinalist_large.png"
+    },
+    {
+        "id": "collectible-34",
+        "name": "Quarterfinalist at ESL One Cologne 2015",
+        "description": "This championship trophy was awarded to the Quarterfinalist at The ESL One Cologne 2015 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/col_2015_quarterfinalist_large.png"
+    },
+    {
+        "id": "collectible-44",
+        "name": "Champion at DreamHack Cluj-Napoca 2015",
+        "description": "This championship trophy was awarded to the Champion at the DreamHack Cluj-Napoca 2015 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_large.png"
+    },
+    {
+        "id": "collectible-45",
+        "name": "Finalist at DreamHack Cluj-Napoca 2015",
+        "description": "This championship trophy was awarded to the Finalist at the DreamHack Cluj-Napoca 2015 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_finalists_large.png"
+    },
+    {
+        "id": "collectible-46",
+        "name": "Semifinalist at DreamHack Cluj-Napoca 2015",
+        "description": "This championship trophy was awarded to the Semifinalist at the DreamHack Cluj-Napoca 2015 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_finalists_large.png"
+    },
+    {
+        "id": "collectible-47",
+        "name": "Quarterfinalist at DreamHack Cluj-Napoca 2015",
+        "description": "This championship trophy was awarded to the Quarterfinalist at the DreamHack Cluj-Napoca 2015 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_finalists_large.png"
+    },
+    {
+        "id": "collectible-54",
+        "name": "Champion at MLG Columbus 2016",
+        "description": "This championship trophy was awarded to the Champion at the MLG Columbus 2016 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_large.png"
+    },
+    {
+        "id": "collectible-55",
+        "name": "Finalist at MLG Columbus 2016",
+        "description": "This championship trophy was awarded to the Finalist at the MLG Columbus 2016 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_finalists_large.png"
+    },
+    {
+        "id": "collectible-56",
+        "name": "Semifinalist at MLG Columbus 2016",
+        "description": "This championship trophy was awarded to the Semifinalist at the MLG Columbus 2016 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_finalists_large.png"
+    },
+    {
+        "id": "collectible-57",
+        "name": "Quarterfinalist at MLG Columbus 2016",
+        "description": "This championship trophy was awarded to the Quarterfinalist at the MLG Columbus 2016 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_finalists_large.png"
+    },
+    {
+        "id": "collectible-58",
+        "name": "Champion at ESL One Cologne 2016",
+        "description": "This championship trophy was awarded to the Champion at the ESL One Cologne 2016 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_large.png"
+    },
+    {
+        "id": "collectible-59",
+        "name": "Finalist at ESL One Cologne 2016",
+        "description": "This championship trophy was awarded to the Finalist at the ESL One Cologne 2016 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_finalists_large.png"
+    },
+    {
+        "id": "collectible-60",
+        "name": "Semifinalist at ESL One Cologne 2016",
+        "description": "This championship trophy was awarded to the Semifinalist at the ESL One Cologne 2016 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_finalists_large.png"
+    },
+    {
+        "id": "collectible-61",
+        "name": "Quarterfinalist at ESL One Cologne 2016",
+        "description": "This championship trophy was awarded to the Quarterfinalist at the ESL One Cologne 2016 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_finalists_large.png"
+    },
+    {
+        "id": "collectible-68",
+        "name": "Champion at ELEAGUE Atlanta 2017",
+        "description": "This championship trophy was awarded to the Champion at the ELEAGUE Atlanta 2017 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_large.png"
+    },
+    {
+        "id": "collectible-69",
+        "name": "Finalist at ELEAGUE Atlanta 2017",
+        "description": "This championship trophy was awarded to the Finalist at the ELEAGUE Atlanta 2017 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_finalists_large.png"
+    },
+    {
+        "id": "collectible-70",
+        "name": "Semifinalist at ELEAGUE Atlanta 2017",
+        "description": "This championship trophy was awarded to the Semifinalist at the ELEAGUE Atlanta 2017 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_finalists_large.png"
+    },
+    {
+        "id": "collectible-71",
+        "name": "Quarterfinalist at ELEAGUE Atlanta 2017",
+        "description": "This championship trophy was awarded to the Quarterfinalist at the ELEAGUE Atlanta 2017 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_finalists_large.png"
+    },
+    {
+        "id": "collectible-75",
+        "name": "Champion at PGL Krakow 2017",
+        "description": "This championship trophy was awarded to the Champion at the PGL Krakow 2017 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_large.png"
+    },
+    {
+        "id": "collectible-76",
+        "name": "Finalist at PGL Krakow 2017",
+        "description": "This championship trophy was awarded to the Finalist at the PGL Krakow 2017 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_finalists_large.png"
+    },
+    {
+        "id": "collectible-77",
+        "name": "Semifinalist at PGL Krakow 2017",
+        "description": "This championship trophy was awarded to the Semifinalist at the PGL Krakow 2017 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_finalists_large.png"
+    },
+    {
+        "id": "collectible-78",
+        "name": "Quarterfinalist at PGL Krakow 2017",
+        "description": "This championship trophy was awarded to the Quarterfinalist at the PGL Krakow 2017 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_finalists_large.png"
+    },
+    {
+        "id": "collectible-82",
+        "name": "Champion at ELEAGUE Boston 2018",
+        "description": "This championship trophy was awarded to the Champion at the ELEAGUE Boston 2018 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_large.png"
+    },
+    {
+        "id": "collectible-83",
+        "name": "Finalist at ELEAGUE Boston 2018",
+        "description": "This championship trophy was awarded to the Finalist at the ELEAGUE Boston 2018 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_finalists_large.png"
+    },
+    {
+        "id": "collectible-84",
+        "name": "Semifinalist at ELEAGUE Boston 2018",
+        "description": "This championship trophy was awarded to the Semifinalist at the ELEAGUE Boston 2018 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_finalists_large.png"
+    },
+    {
+        "id": "collectible-85",
+        "name": "Quarterfinalist at ELEAGUE Boston 2018",
+        "description": "This championship trophy was awarded to the Quarterfinalist at the ELEAGUE Boston 2018 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_finalists_large.png"
+    },
+    {
+        "id": "collectible-89",
+        "name": "Champion at FACEIT London 2018",
+        "description": "This championship trophy was awarded to the Champion at the FACEIT London 2018 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_large.png"
+    },
+    {
+        "id": "collectible-90",
+        "name": "Finalist at FACEIT London 2018",
+        "description": "This championship trophy was awarded to the Finalist at the FACEIT London 2018 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_finalists_large.png"
+    },
+    {
+        "id": "collectible-91",
+        "name": "Semifinalist at FACEIT London 2018",
+        "description": "This championship trophy was awarded to the Semifinalist at the FACEIT London 2018 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_finalists_large.png"
+    },
+    {
+        "id": "collectible-92",
+        "name": "Quarterfinalist at FACEIT London 2018",
+        "description": "This championship trophy was awarded to the Quarterfinalist at the FACEIT London 2018 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_finalists_large.png"
+    },
+    {
+        "id": "collectible-98",
+        "name": "Champion at IEM Katowice 2019",
+        "description": "This championship trophy was awarded to the Champion at the IEM Katowice 2019 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_large.png"
+    },
+    {
+        "id": "collectible-99",
+        "name": "Finalist at IEM Katowice 2019",
+        "description": "This championship trophy was awarded to the Finalist at the IEM Katowice 2019 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_finalists_large.png"
+    },
+    {
+        "id": "collectible-100",
+        "name": "Semifinalist at IEM Katowice 2019",
+        "description": "This championship trophy was awarded to the Semifinalist at the IEM Katowice 2019 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_finalists_large.png"
+    },
+    {
+        "id": "collectible-101",
+        "name": "Quarterfinalist at IEM Katowice 2019",
+        "description": "This championship trophy was awarded to the Quarterfinalist at the IEM Katowice 2019 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_finalists_large.png"
+    },
+    {
+        "id": "collectible-102",
+        "name": "Champion at StarLadder Berlin 2019",
+        "description": "This championship trophy was awarded to the Champion at the StarLadder Berlin 2019 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_large.png"
+    },
+    {
+        "id": "collectible-103",
+        "name": "Finalist at StarLadder Berlin 2019",
+        "description": "This championship trophy was awarded to the Finalist at the StarLadder Berlin 2019 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_finalists_large.png"
+    },
+    {
+        "id": "collectible-104",
+        "name": "Semifinalist at StarLadder Berlin 2019",
+        "description": "This championship trophy was awarded to the Semifinalist at the StarLadder Berlin 2019 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_finalists_large.png"
+    },
+    {
+        "id": "collectible-105",
+        "name": "Quarterfinalist at StarLadder Berlin 2019",
+        "description": "This championship trophy was awarded to the Quarterfinalist at the StarLadder Berlin 2019 CS:GO Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_finalists_large.png"
+    },
+    {
+        "id": "collectible-106",
+        "name": "Champion at PGL Stockholm 2021",
+        "description": "This championship trophy was awarded to the Champion at the PGL Stockholm 2021 CS:GO Major Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_large.png"
+    },
+    {
+        "id": "collectible-107",
+        "name": "Finalist at PGL Stockholm 2021",
+        "description": "This championship trophy was awarded to the Finalist at the PGL Stockholm 2021 CS:GO Major Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_finalists_large.png"
+    },
+    {
+        "id": "collectible-108",
+        "name": "Semifinalist at PGL Stockholm 2021",
+        "description": "This championship trophy was awarded to the Semifinalist at the PGL Stockholm 2021 CS:GO Major Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_finalists_large.png"
+    },
+    {
+        "id": "collectible-109",
+        "name": "Quarterfinalist at PGL Stockholm 2021",
+        "description": "This championship trophy was awarded to the Quarterfinalist at the PGL Stockholm 2021 CS:GO Major Championship.",
+        "rarity": null,
+        "type": "Tournament Finalist Trophy",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_finalists_large.png"
+    }
+]

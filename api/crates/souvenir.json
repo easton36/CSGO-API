@@ -1,0 +1,810 @@
+[
+    {
+        "id": "crate-6",
+        "name": "DreamHack 2013 Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_dhw13_promo.png"
+    },
+    {
+        "id": "crate-12",
+        "name": "EMS One 2014 Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_ems14_promo.png"
+    },
+    {
+        "id": "crate-21",
+        "name": "ESL One Cologne 2014 Dust II Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_esl14_promo_de_dust2.png"
+    },
+    {
+        "id": "crate-22",
+        "name": "ESL One Cologne 2014 Inferno Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_esl14_promo_de_inferno.png"
+    },
+    {
+        "id": "crate-23",
+        "name": "ESL One Cologne 2014 Mirage Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_esl14_promo_de_mirage.png"
+    },
+    {
+        "id": "crate-24",
+        "name": "ESL One Cologne 2014 Nuke Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_esl14_promo_de_nuke.png"
+    },
+    {
+        "id": "crate-25",
+        "name": "ESL One Cologne 2014 Cache Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_esl14_promo_de_cache.png"
+    },
+    {
+        "id": "crate-26",
+        "name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_esl14_promo_de_cbble.png"
+    },
+    {
+        "id": "crate-27",
+        "name": "ESL One Cologne 2014 Overpass Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_esl14_promo_de_overpass.png"
+    },
+    {
+        "id": "crate-30",
+        "name": "DreamHack 2014 Dust II Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_dhw14_promo_de_dust2.png"
+    },
+    {
+        "id": "crate-31",
+        "name": "DreamHack 2014 Inferno Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_dhw14_promo_de_inferno.png"
+    },
+    {
+        "id": "crate-32",
+        "name": "DreamHack 2014 Mirage Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_dhw14_promo_de_mirage.png"
+    },
+    {
+        "id": "crate-33",
+        "name": "DreamHack 2014 Nuke Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_dhw14_promo_de_nuke.png"
+    },
+    {
+        "id": "crate-34",
+        "name": "DreamHack 2014 Cache Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_dhw14_promo_de_cache.png"
+    },
+    {
+        "id": "crate-35",
+        "name": "DreamHack 2014 Cobblestone Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_dhw14_promo_de_cbble.png"
+    },
+    {
+        "id": "crate-36",
+        "name": "DreamHack 2014 Overpass Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_dhw14_promo_de_overpass.png"
+    },
+    {
+        "id": "crate-38",
+        "name": "ESL One Katowice 2015 Dust II Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_eslkatowice2015_promo_de_dust2.png"
+    },
+    {
+        "id": "crate-39",
+        "name": "ESL One Katowice 2015 Inferno Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_eslkatowice2015_promo_de_inferno.png"
+    },
+    {
+        "id": "crate-40",
+        "name": "ESL One Katowice 2015 Mirage Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_eslkatowice2015_promo_de_mirage.png"
+    },
+    {
+        "id": "crate-41",
+        "name": "ESL One Katowice 2015 Nuke Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_eslkatowice2015_promo_de_nuke.png"
+    },
+    {
+        "id": "crate-42",
+        "name": "ESL One Katowice 2015 Cache Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_eslkatowice2015_promo_de_cache.png"
+    },
+    {
+        "id": "crate-43",
+        "name": "ESL One Katowice 2015 Cobblestone Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_eslkatowice2015_promo_de_cbble.png"
+    },
+    {
+        "id": "crate-44",
+        "name": "ESL One Katowice 2015 Overpass Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_eslkatowice2015_promo_de_overpass.png"
+    },
+    {
+        "id": "crate-72",
+        "name": "ESL One Cologne 2015 Dust II Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_eslcologne2015_promo_de_dust2.png"
+    },
+    {
+        "id": "crate-73",
+        "name": "ESL One Cologne 2015 Mirage Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_eslcologne2015_promo_de_mirage.png"
+    },
+    {
+        "id": "crate-74",
+        "name": "ESL One Cologne 2015 Inferno Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_eslcologne2015_promo_de_inferno.png"
+    },
+    {
+        "id": "crate-75",
+        "name": "ESL One Cologne 2015 Cobblestone Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_eslcologne2015_promo_de_cbble.png"
+    },
+    {
+        "id": "crate-76",
+        "name": "ESL One Cologne 2015 Overpass Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_eslcologne2015_promo_de_overpass.png"
+    },
+    {
+        "id": "crate-77",
+        "name": "ESL One Cologne 2015 Cache Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_eslcologne2015_promo_de_cache.png"
+    },
+    {
+        "id": "crate-78",
+        "name": "ESL One Cologne 2015 Train Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_eslcologne2015_promo_de_train.png"
+    },
+    {
+        "id": "crate-100",
+        "name": "DreamHack Cluj-Napoca 2015 Dust II Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_cluj2015_promo_de_dust2.png"
+    },
+    {
+        "id": "crate-101",
+        "name": "DreamHack Cluj-Napoca 2015 Mirage Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_cluj2015_promo_de_mirage.png"
+    },
+    {
+        "id": "crate-102",
+        "name": "DreamHack Cluj-Napoca 2015 Inferno Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_cluj2015_promo_de_inferno.png"
+    },
+    {
+        "id": "crate-103",
+        "name": "DreamHack Cluj-Napoca 2015 Cobblestone Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_cluj2015_promo_de_cbble.png"
+    },
+    {
+        "id": "crate-104",
+        "name": "DreamHack Cluj-Napoca 2015 Overpass Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_cluj2015_promo_de_overpass.png"
+    },
+    {
+        "id": "crate-105",
+        "name": "DreamHack Cluj-Napoca 2015 Cache Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_cluj2015_promo_de_cache.png"
+    },
+    {
+        "id": "crate-106",
+        "name": "DreamHack Cluj-Napoca 2015 Train Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_cluj2015_promo_de_train.png"
+    },
+    {
+        "id": "crate-133",
+        "name": "MLG Columbus 2016 Dust II Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_columbus2016_promo_de_dust2.png"
+    },
+    {
+        "id": "crate-134",
+        "name": "MLG Columbus 2016 Mirage Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_columbus2016_promo_de_mirage.png"
+    },
+    {
+        "id": "crate-135",
+        "name": "MLG Columbus 2016 Inferno Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_columbus2016_promo_de_inferno.png"
+    },
+    {
+        "id": "crate-136",
+        "name": "MLG Columbus 2016 Cobblestone Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_columbus2016_promo_de_cbble.png"
+    },
+    {
+        "id": "crate-137",
+        "name": "MLG Columbus 2016 Overpass Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_columbus2016_promo_de_overpass.png"
+    },
+    {
+        "id": "crate-138",
+        "name": "MLG Columbus 2016 Cache Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_columbus2016_promo_de_cache.png"
+    },
+    {
+        "id": "crate-139",
+        "name": "MLG Columbus 2016 Train Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_columbus2016_promo_de_train.png"
+    },
+    {
+        "id": "crate-140",
+        "name": "MLG Columbus 2016 Nuke Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_columbus2016_promo_de_nuke.png"
+    },
+    {
+        "id": "crate-161",
+        "name": "Cologne 2016 Dust II Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_cologne2016_promo_de_dust2.png"
+    },
+    {
+        "id": "crate-162",
+        "name": "Cologne 2016 Mirage Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_cologne2016_promo_de_mirage.png"
+    },
+    {
+        "id": "crate-163",
+        "name": "Cologne 2016 Cobblestone Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_cologne2016_promo_de_cbble.png"
+    },
+    {
+        "id": "crate-164",
+        "name": "Cologne 2016 Overpass Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_cologne2016_promo_de_overpass.png"
+    },
+    {
+        "id": "crate-165",
+        "name": "Cologne 2016 Cache Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_cologne2016_promo_de_cache.png"
+    },
+    {
+        "id": "crate-166",
+        "name": "Cologne 2016 Train Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_cologne2016_promo_de_train.png"
+    },
+    {
+        "id": "crate-167",
+        "name": "Cologne 2016 Nuke Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_cologne2016_promo_de_nuke.png"
+    },
+    {
+        "id": "crate-188",
+        "name": "Atlanta 2017 Dust II Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_atlanta2017_promo_de_dust2.png"
+    },
+    {
+        "id": "crate-189",
+        "name": "Atlanta 2017 Mirage Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_atlanta2017_promo_de_mirage.png"
+    },
+    {
+        "id": "crate-190",
+        "name": "Atlanta 2017 Cobblestone Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_atlanta2017_promo_de_cbble.png"
+    },
+    {
+        "id": "crate-191",
+        "name": "Atlanta 2017 Overpass Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_atlanta2017_promo_de_overpass.png"
+    },
+    {
+        "id": "crate-192",
+        "name": "Atlanta 2017 Cache Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_atlanta2017_promo_de_cache.png"
+    },
+    {
+        "id": "crate-193",
+        "name": "Atlanta 2017 Train Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_atlanta2017_promo_de_train.png"
+    },
+    {
+        "id": "crate-194",
+        "name": "Atlanta 2017 Nuke Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_atlanta2017_promo_de_nuke.png"
+    },
+    {
+        "id": "crate-199",
+        "name": "Krakow 2017 Inferno Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_krakow2017_promo_de_inferno.png"
+    },
+    {
+        "id": "crate-200",
+        "name": "Krakow 2017 Mirage Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_krakow2017_promo_de_mirage.png"
+    },
+    {
+        "id": "crate-201",
+        "name": "Krakow 2017 Cobblestone Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_krakow2017_promo_de_cbble.png"
+    },
+    {
+        "id": "crate-202",
+        "name": "Krakow 2017 Overpass Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_krakow2017_promo_de_overpass.png"
+    },
+    {
+        "id": "crate-203",
+        "name": "Krakow 2017 Cache Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_krakow2017_promo_de_cache.png"
+    },
+    {
+        "id": "crate-204",
+        "name": "Krakow 2017 Train Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_krakow2017_promo_de_train.png"
+    },
+    {
+        "id": "crate-205",
+        "name": "Krakow 2017 Nuke Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_krakow2017_promo_de_nuke.png"
+    },
+    {
+        "id": "crate-212",
+        "name": "Boston 2018 Inferno Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_boston2018_promo_de_inferno.png"
+    },
+    {
+        "id": "crate-213",
+        "name": "Boston 2018 Mirage Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_boston2018_promo_de_mirage.png"
+    },
+    {
+        "id": "crate-214",
+        "name": "Boston 2018 Cobblestone Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_boston2018_promo_de_cbble.png"
+    },
+    {
+        "id": "crate-215",
+        "name": "Boston 2018 Overpass Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_boston2018_promo_de_overpass.png"
+    },
+    {
+        "id": "crate-216",
+        "name": "Boston 2018 Cache Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_boston2018_promo_de_cache.png"
+    },
+    {
+        "id": "crate-217",
+        "name": "Boston 2018 Train Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_boston2018_promo_de_train.png"
+    },
+    {
+        "id": "crate-218",
+        "name": "Boston 2018 Nuke Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_boston2018_promo_de_nuke.png"
+    },
+    {
+        "id": "crate-229",
+        "name": "London 2018 Inferno Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_london2018_promo_de_inferno.png"
+    },
+    {
+        "id": "crate-230",
+        "name": "London 2018 Mirage Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_london2018_promo_de_mirage.png"
+    },
+    {
+        "id": "crate-231",
+        "name": "London 2018 Dust II Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_london2018_promo_de_dust2.png"
+    },
+    {
+        "id": "crate-232",
+        "name": "London 2018 Overpass Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_london2018_promo_de_overpass.png"
+    },
+    {
+        "id": "crate-233",
+        "name": "London 2018 Cache Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_london2018_promo_de_cache.png"
+    },
+    {
+        "id": "crate-234",
+        "name": "London 2018 Train Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_london2018_promo_de_train.png"
+    },
+    {
+        "id": "crate-235",
+        "name": "London 2018 Nuke Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_london2018_promo_de_nuke.png"
+    },
+    {
+        "id": "crate-242",
+        "name": "Katowice 2019 Inferno Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_katowice2019_promo_de_inferno.png"
+    },
+    {
+        "id": "crate-243",
+        "name": "Katowice 2019 Mirage Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_katowice2019_promo_de_mirage.png"
+    },
+    {
+        "id": "crate-244",
+        "name": "Katowice 2019 Dust II Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_katowice2019_promo_de_dust2.png"
+    },
+    {
+        "id": "crate-245",
+        "name": "Katowice 2019 Overpass Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_katowice2019_promo_de_overpass.png"
+    },
+    {
+        "id": "crate-246",
+        "name": "Katowice 2019 Cache Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_katowice2019_promo_de_cache.png"
+    },
+    {
+        "id": "crate-247",
+        "name": "Katowice 2019 Train Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_katowice2019_promo_de_train.png"
+    },
+    {
+        "id": "crate-248",
+        "name": "Katowice 2019 Nuke Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_katowice2019_promo_de_nuke.png"
+    },
+    {
+        "id": "crate-255",
+        "name": "Berlin 2019 Inferno Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_berlin2019_promo_de_inferno.png"
+    },
+    {
+        "id": "crate-256",
+        "name": "Berlin 2019 Mirage Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_berlin2019_promo_de_mirage.png"
+    },
+    {
+        "id": "crate-257",
+        "name": "Berlin 2019 Dust II Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_berlin2019_promo_de_dust2.png"
+    },
+    {
+        "id": "crate-258",
+        "name": "Berlin 2019 Overpass Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_berlin2019_promo_de_overpass.png"
+    },
+    {
+        "id": "crate-259",
+        "name": "Berlin 2019 Train Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_berlin2019_promo_de_train.png"
+    },
+    {
+        "id": "crate-260",
+        "name": "Berlin 2019 Nuke Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_berlin2019_promo_de_nuke.png"
+    },
+    {
+        "id": "crate-261",
+        "name": "Berlin 2019 Vertigo Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_berlin2019_promo_de_vertigo.png"
+    },
+    {
+        "id": "crate-318",
+        "name": "Stockholm 2021 Inferno Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_stockh2021_promo_de_inferno.png"
+    },
+    {
+        "id": "crate-319",
+        "name": "Stockholm 2021 Mirage Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_stockh2021_promo_de_mirage.png"
+    },
+    {
+        "id": "crate-320",
+        "name": "Stockholm 2021 Dust II Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_stockh2021_promo_de_dust2.png"
+    },
+    {
+        "id": "crate-321",
+        "name": "Stockholm 2021 Overpass Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_stockh2021_promo_de_overpass.png"
+    },
+    {
+        "id": "crate-322",
+        "name": "Stockholm 2021 Ancient Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_stockh2021_promo_de_ancient.png"
+    },
+    {
+        "id": "crate-323",
+        "name": "Stockholm 2021 Nuke Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_stockh2021_promo_de_nuke.png"
+    },
+    {
+        "id": "crate-324",
+        "name": "Stockholm 2021 Vertigo Souvenir Package",
+        "description": null,
+        "type": "Souvenir",
+        "first_sale_date": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_stockh2021_promo_de_vertigo.png"
+    }
+]

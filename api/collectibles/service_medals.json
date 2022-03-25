@@ -1,0 +1,362 @@
+[
+    {
+        "id": "collectible-196",
+        "name": "2015 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2015.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2015_large.png"
+    },
+    {
+        "id": "collectible-197",
+        "name": "2015 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2015.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2015_2_large.png"
+    },
+    {
+        "id": "collectible-201",
+        "name": "2016 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2016.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2016_lvl1_large.png"
+    },
+    {
+        "id": "collectible-202",
+        "name": "2016 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2016.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2016_lvl2_large.png"
+    },
+    {
+        "id": "collectible-203",
+        "name": "2016 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2016.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2016_lvl3_large.png"
+    },
+    {
+        "id": "collectible-204",
+        "name": "2016 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2016.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2016_lvl4_large.png"
+    },
+    {
+        "id": "collectible-205",
+        "name": "2016 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2016.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2016_lvl5_large.png"
+    },
+    {
+        "id": "collectible-206",
+        "name": "2016 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2016.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2016_lvl6_large.png"
+    },
+    {
+        "id": "collectible-207",
+        "name": "2017 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2017.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2017_lvl1_large.png"
+    },
+    {
+        "id": "collectible-208",
+        "name": "2017 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2017.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2017_lvl2_large.png"
+    },
+    {
+        "id": "collectible-209",
+        "name": "2017 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2017.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2017_lvl3_large.png"
+    },
+    {
+        "id": "collectible-210",
+        "name": "2017 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2017.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2017_lvl4_large.png"
+    },
+    {
+        "id": "collectible-211",
+        "name": "2017 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2017.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2017_lvl5_large.png"
+    },
+    {
+        "id": "collectible-212",
+        "name": "2017 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2017.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2017_lvl6_large.png"
+    },
+    {
+        "id": "collectible-213",
+        "name": "2017 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2017.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2017_lvl7_large.png"
+    },
+    {
+        "id": "collectible-214",
+        "name": "2018 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2018.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2018_lvl1_large.png"
+    },
+    {
+        "id": "collectible-215",
+        "name": "2018 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2018.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2018_lvl2_large.png"
+    },
+    {
+        "id": "collectible-216",
+        "name": "2018 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2018.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2018_lvl3_large.png"
+    },
+    {
+        "id": "collectible-217",
+        "name": "2018 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2018.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2018_lvl4_large.png"
+    },
+    {
+        "id": "collectible-218",
+        "name": "2018 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2018.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2018_lvl5_large.png"
+    },
+    {
+        "id": "collectible-219",
+        "name": "2018 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2018.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2018_lvl6_large.png"
+    },
+    {
+        "id": "collectible-220",
+        "name": "2019 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2019.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2019_lvl1_large.png"
+    },
+    {
+        "id": "collectible-221",
+        "name": "2019 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2019.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2019_lvl2_large.png"
+    },
+    {
+        "id": "collectible-222",
+        "name": "2019 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2019.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2019_lvl3_large.png"
+    },
+    {
+        "id": "collectible-223",
+        "name": "2019 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2019.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2019_lvl4_large.png"
+    },
+    {
+        "id": "collectible-224",
+        "name": "2019 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2019.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2019_lvl5_large.png"
+    },
+    {
+        "id": "collectible-225",
+        "name": "2019 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2019.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2019_lvl6_large.png"
+    },
+    {
+        "id": "collectible-230",
+        "name": "2020 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2020.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2020_lvl1_large.png"
+    },
+    {
+        "id": "collectible-231",
+        "name": "2020 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2020.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2020_lvl2_large.png"
+    },
+    {
+        "id": "collectible-232",
+        "name": "2020 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2020.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2020_lvl3_large.png"
+    },
+    {
+        "id": "collectible-233",
+        "name": "2020 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2020.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2020_lvl4_large.png"
+    },
+    {
+        "id": "collectible-234",
+        "name": "2020 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2020.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2020_lvl5_large.png"
+    },
+    {
+        "id": "collectible-235",
+        "name": "2020 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2020.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2020_lvl6_large.png"
+    },
+    {
+        "id": "collectible-247",
+        "name": "2021 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2021.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2021_lvl1_large.png"
+    },
+    {
+        "id": "collectible-248",
+        "name": "2021 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2021.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2021_lvl2_large.png"
+    },
+    {
+        "id": "collectible-249",
+        "name": "2021 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2021.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2021_lvl3_large.png"
+    },
+    {
+        "id": "collectible-250",
+        "name": "2021 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2021.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2021_lvl4_large.png"
+    },
+    {
+        "id": "collectible-251",
+        "name": "2021 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2021.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2021_lvl5_large.png"
+    },
+    {
+        "id": "collectible-252",
+        "name": "2021 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2021.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2021_lvl6_large.png"
+    },
+    {
+        "id": "collectible-253",
+        "name": "2022 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2022.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2022_lvl1_large.png"
+    },
+    {
+        "id": "collectible-254",
+        "name": "2022 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2022.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2022_lvl2_large.png"
+    },
+    {
+        "id": "collectible-255",
+        "name": "2022 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2022.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2022_lvl3_large.png"
+    },
+    {
+        "id": "collectible-256",
+        "name": "2022 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2022.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2022_lvl4_large.png"
+    },
+    {
+        "id": "collectible-257",
+        "name": "2022 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2022.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2022_lvl5_large.png"
+    },
+    {
+        "id": "collectible-258",
+        "name": "2022 Service Medal",
+        "description": "Awarded for outstanding service and achievement in 2022.",
+        "rarity": null,
+        "type": "Service Medal",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/service_medal_2022_lvl6_large.png"
+    }
+]

@@ -1,0 +1,546 @@
+[
+    {
+        "id": "collectible-113",
+        "name": "Museum Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_museum_large.png"
+    },
+    {
+        "id": "collectible-114",
+        "name": "Downtown Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_downtown_large.png"
+    },
+    {
+        "id": "collectible-115",
+        "name": "Thunder Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_thunder_large.png"
+    },
+    {
+        "id": "collectible-116",
+        "name": "Favela Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_favela_large.png"
+    },
+    {
+        "id": "collectible-117",
+        "name": "Motel Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_motel_large.png"
+    },
+    {
+        "id": "collectible-118",
+        "name": "Seaside Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_seaside_large.png"
+    },
+    {
+        "id": "collectible-119",
+        "name": "Library Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_library_large.png"
+    },
+    {
+        "id": "collectible-123",
+        "name": "Agency Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_agency_large.png"
+    },
+    {
+        "id": "collectible-124",
+        "name": "Ali Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_ali_large.png"
+    },
+    {
+        "id": "collectible-125",
+        "name": "Cache Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_cache_large.png"
+    },
+    {
+        "id": "collectible-126",
+        "name": "Chinatown Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_chinatown_large.png"
+    },
+    {
+        "id": "collectible-127",
+        "name": "Gwalior Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_gwalior_large.png"
+    },
+    {
+        "id": "collectible-128",
+        "name": "Ruins Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_ruins_large.png"
+    },
+    {
+        "id": "collectible-129",
+        "name": "Siege Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_siege_large.png"
+    },
+    {
+        "id": "collectible-136",
+        "name": "Castle Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_castle_large.png"
+    },
+    {
+        "id": "collectible-137",
+        "name": "Black Gold Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_blackgold_large.png"
+    },
+    {
+        "id": "collectible-138",
+        "name": "Rush Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_rush_large.png"
+    },
+    {
+        "id": "collectible-139",
+        "name": "Mist Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_mist_large.png"
+    },
+    {
+        "id": "collectible-140",
+        "name": "Insertion Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_insertion_large.png"
+    },
+    {
+        "id": "collectible-141",
+        "name": "Overgrown Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_overgrown_large.png"
+    },
+    {
+        "id": "collectible-142",
+        "name": "Marquis Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_marquis_large.png"
+    },
+    {
+        "id": "collectible-143",
+        "name": "Workout Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_workout_large.png"
+    },
+    {
+        "id": "collectible-144",
+        "name": "Backalley Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_backalley_large.png"
+    },
+    {
+        "id": "collectible-145",
+        "name": "Season Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_season_large.png"
+    },
+    {
+        "id": "collectible-146",
+        "name": "Bazaar Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_bazaar_large.png"
+    },
+    {
+        "id": "collectible-147",
+        "name": "Facade Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_facade_large.png"
+    },
+    {
+        "id": "collectible-148",
+        "name": "Log Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_log_large.png"
+    },
+    {
+        "id": "collectible-149",
+        "name": "Rails Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_rails_large.png"
+    },
+    {
+        "id": "collectible-150",
+        "name": "Resort Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_resort_large.png"
+    },
+    {
+        "id": "collectible-151",
+        "name": "Zoo Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_zoo_large.png"
+    },
+    {
+        "id": "collectible-152",
+        "name": "Santorini Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_santorini_large.png"
+    },
+    {
+        "id": "collectible-153",
+        "name": "Coast Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_coast_large.png"
+    },
+    {
+        "id": "collectible-154",
+        "name": "Mikla Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_mikla_large.png"
+    },
+    {
+        "id": "collectible-155",
+        "name": "Royal Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_royal_large.png"
+    },
+    {
+        "id": "collectible-156",
+        "name": "Empire Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_empire_large.png"
+    },
+    {
+        "id": "collectible-157",
+        "name": "Tulip Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_tulip_large.png"
+    },
+    {
+        "id": "collectible-158",
+        "name": "Cruise Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_cruise_large.png"
+    },
+    {
+        "id": "collectible-159",
+        "name": "Subzero Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_subzero_large.png"
+    },
+    {
+        "id": "collectible-160",
+        "name": "Biome Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_biome_large.png"
+    },
+    {
+        "id": "collectible-161",
+        "name": "Abbey Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_abbey_large.png"
+    },
+    {
+        "id": "collectible-162",
+        "name": "Ruby Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_ruby_large.png"
+    },
+    {
+        "id": "collectible-163",
+        "name": "Breach Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_breach_large.png"
+    },
+    {
+        "id": "collectible-164",
+        "name": "Studio Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_studio_large.png"
+    },
+    {
+        "id": "collectible-165",
+        "name": "Jungle Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_jungle_large.png"
+    },
+    {
+        "id": "collectible-166",
+        "name": "Anubis Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_anubis_large.png"
+    },
+    {
+        "id": "collectible-167",
+        "name": "Chlorine Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_chlorine_large.png"
+    },
+    {
+        "id": "collectible-168",
+        "name": "Mutiny Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_mutiny_large.png"
+    },
+    {
+        "id": "collectible-169",
+        "name": "Swamp Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_swamp_large.png"
+    },
+    {
+        "id": "collectible-170",
+        "name": "Frostbite Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_frostbite_large.png"
+    },
+    {
+        "id": "collectible-171",
+        "name": "Engage Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_engage_large.png"
+    },
+    {
+        "id": "collectible-172",
+        "name": "Apollo Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_apollo_large.png"
+    },
+    {
+        "id": "collectible-173",
+        "name": "Guard Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_guard_large.png"
+    },
+    {
+        "id": "collectible-174",
+        "name": "Elysion Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_elysion_large.png"
+    },
+    {
+        "id": "collectible-175",
+        "name": "Grind Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_grind_large.png"
+    },
+    {
+        "id": "collectible-176",
+        "name": "Mocha Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_mocha_large.png"
+    },
+    {
+        "id": "collectible-177",
+        "name": "Calavera Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_calavera_large.png"
+    },
+    {
+        "id": "collectible-178",
+        "name": "Pitstop Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_pitstop_large.png"
+    },
+    {
+        "id": "collectible-179",
+        "name": "Basalt Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_basalt_large.png"
+    },
+    {
+        "id": "collectible-180",
+        "name": "Insertion II Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_insertion2_large.png"
+    },
+    {
+        "id": "collectible-181",
+        "name": "Ravine Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_ravine_large.png"
+    },
+    {
+        "id": "collectible-182",
+        "name": "Extraction Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_extraction_large.png"
+    },
+    {
+        "id": "collectible-183",
+        "name": "County Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_county_large.png"
+    },
+    {
+        "id": "collectible-184",
+        "name": "Iris Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_iris_large.png"
+    },
+    {
+        "id": "collectible-185",
+        "name": "Climb Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_climb_large.png"
+    },
+    {
+        "id": "collectible-186",
+        "name": "Crete Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_crete_large.png"
+    },
+    {
+        "id": "collectible-187",
+        "name": "Hive Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_hive_large.png"
+    },
+    {
+        "id": "collectible-188",
+        "name": "Vineyard Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_vineyard_large.png"
+    },
+    {
+        "id": "collectible-189",
+        "name": "Ember Map Coin",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_ember_large.png"
+    }
+]
