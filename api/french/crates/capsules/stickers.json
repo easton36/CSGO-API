@@ -1417,23 +1417,31 @@
     },
     {
         "id": "crate-4832",
-        "name": null,
+        "name": "Capsule de stickers d'Anvers 2022 des équipes légendes",
         "type": "Sticker Capsule",
         "first_sale_date": null,
         "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_sticker_pack_antwerp2022_legends.png"
     },
     {
         "id": "crate-4833",
-        "name": null,
+        "name": "Capsule de stickers d'Anvers 2022 des équipes challengers",
         "type": "Sticker Capsule",
         "first_sale_date": null,
         "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_sticker_pack_antwerp2022_challengers.png"
     },
     {
         "id": "crate-4834",
-        "name": null,
+        "name": "Capsule de stickers d'Anvers 2022 des équipes participantes",
         "type": "Sticker Capsule",
         "first_sale_date": null,
         "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_sticker_pack_antwerp2022_contenders.png"
+    },
+    {
+        "id": "crate-4847",
+        "name": "Capsule de stickers du 10ᵉ anniversaire",
+        "description": "Cette capsule contient une série de stickers créés par plusieurs artistes du Workshop Steam en célébration des dix ans de CS:GO.",
+        "type": "Sticker Capsule",
+        "first_sale_date": "2022/06/15",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_sticker_pack_csgo10_capsule.png"
     }
 ]

@@ -9,7 +9,7 @@
     },
     {
         "id": "crate-4696",
-        "name": null,
+        "name": "Musiksætkasse: Masterminds",
         "description": "Denne kasse indeholder et udvalg af musiksæt fra forskellige komponister.",
         "type": "Music Kit Box",
         "first_sale_date": "2020/04/22",
@@ -17,7 +17,7 @@
     },
     {
         "id": "crate-4697",
-        "name": null,
+        "name": "Musiksætkasse: StatTrak™ Masterminds",
         "description": "Denne kasse indeholder et udvalg af StatTrak™-musiksæt fra forskellige komponister.",
         "type": "Music Kit Box",
         "first_sale_date": "2020/04/22",
@@ -38,5 +38,21 @@
         "type": "Music Kit Box",
         "first_sale_date": "2021/07/20",
         "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_musickit_tacticians_stattrak_capsule.png"
+    },
+    {
+        "id": "crate-4848",
+        "name": null,
+        "description": null,
+        "type": "Music Kit Box",
+        "first_sale_date": "2022/08/15",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_musickit_initiators_capsule.png"
+    },
+    {
+        "id": "crate-4849",
+        "name": null,
+        "description": null,
+        "type": "Music Kit Box",
+        "first_sale_date": "2022/08/15",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_musickit_initiators_stattrak_capsule.png"
     }
 ]

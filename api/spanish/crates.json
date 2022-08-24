@@ -2705,7 +2705,7 @@
     },
     {
         "id": "crate-4835",
-        "name": null,
+        "name": "Paquete regalo de Inferno - Amberes 2022",
         "description": null,
         "type": "Souvenir",
         "first_sale_date": null,
@@ -2713,7 +2713,7 @@
     },
     {
         "id": "crate-4836",
-        "name": null,
+        "name": "Paquete regalo de Mirage - Amberes 2022",
         "description": null,
         "type": "Souvenir",
         "first_sale_date": null,
@@ -2721,7 +2721,7 @@
     },
     {
         "id": "crate-4837",
-        "name": null,
+        "name": "Paquete regalo de Dust II - Amberes 2022",
         "description": null,
         "type": "Souvenir",
         "first_sale_date": null,
@@ -2729,7 +2729,7 @@
     },
     {
         "id": "crate-4838",
-        "name": null,
+        "name": "Paquete regalo de Overpass - Amberes 2022",
         "description": null,
         "type": "Souvenir",
         "first_sale_date": null,
@@ -2737,7 +2737,7 @@
     },
     {
         "id": "crate-4839",
-        "name": null,
+        "name": "Paquete regalo de Ancient - Amberes 2022",
         "description": null,
         "type": "Souvenir",
         "first_sale_date": null,
@@ -2745,7 +2745,7 @@
     },
     {
         "id": "crate-4840",
-        "name": null,
+        "name": "Paquete regalo de Nuke - Amberes 2022",
         "description": null,
         "type": "Souvenir",
         "first_sale_date": null,
@@ -2753,7 +2753,7 @@
     },
     {
         "id": "crate-4841",
-        "name": null,
+        "name": "Paquete regalo de Vertigo - Amberes 2022",
         "description": null,
         "type": "Souvenir",
         "first_sale_date": null,
@@ -2793,10 +2793,34 @@
     },
     {
         "id": "crate-4846",
-        "name": null,
+        "name": "Caja Retroceso",
         "description": null,
         "type": "Case",
         "first_sale_date": "2022-05-30",
         "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_community_31.png"
+    },
+    {
+        "id": "crate-4847",
+        "name": "Cápsula de pegatinas del 10.º cumpleaños",
+        "description": null,
+        "type": "Sticker Capsule",
+        "first_sale_date": "2022/06/15",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_sticker_pack_csgo10_capsule.png"
+    },
+    {
+        "id": "crate-4848",
+        "name": null,
+        "description": null,
+        "type": "Music Kit Box",
+        "first_sale_date": "2022/08/15",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_musickit_initiators_capsule.png"
+    },
+    {
+        "id": "crate-4849",
+        "name": null,
+        "description": null,
+        "type": "Music Kit Box",
+        "first_sale_date": "2022/08/15",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_musickit_initiators_stattrak_capsule.png"
     }
 ]

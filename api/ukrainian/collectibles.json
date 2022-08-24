@@ -904,6 +904,14 @@
         "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/trophy_majors_finalists_large.png"
     },
     {
+        "id": "collectible-988",
+        "name": "null",
+        "description": null,
+        "rarity": null,
+        "type": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/cupcake_10_year_large.png"
+    },
+    {
         "id": "collectible-1002",
         "name": "Монета учасника операції «Відплата»",
         "description": "За участь в операції «Відплата» для підтримки творців мап зі спільноти.",
@@ -1544,6 +1552,30 @@
         "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_ember_large.png"
     },
     {
+        "id": "collectible-1086",
+        "name": "null",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_tuscan_large.png"
+    },
+    {
+        "id": "collectible-1087",
+        "name": "null",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_prime_large.png"
+    },
+    {
+        "id": "collectible-1088",
+        "name": "null",
+        "description": null,
+        "rarity": null,
+        "type": "Map Contributor Coin",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/maptoken_blagai_large.png"
+    },
+    {
         "id": "collectible-1317",
         "name": "Монета учасника операції «Авангард»",
         "description": "За участь в операції «Авангард».",
@@ -2177,7 +2209,7 @@
     },
     {
         "id": "collectible-4738",
-        "name": "Медаль за службу у 2021",
+        "name": "Медаль за службу 2021",
         "description": "Нагороджено за видатну службу й досягнення у 2021 році.",
         "rarity": null,
         "type": "Service Medal",
@@ -2185,7 +2217,7 @@
     },
     {
         "id": "collectible-4739",
-        "name": "Медаль за службу у 2021",
+        "name": "Медаль за службу 2021",
         "description": "Нагороджено за видатну службу й досягнення у 2021 році.",
         "rarity": null,
         "type": "Service Medal",
@@ -2193,7 +2225,7 @@
     },
     {
         "id": "collectible-4740",
-        "name": "Медаль за службу у 2021",
+        "name": "Медаль за службу 2021",
         "description": "Нагороджено за видатну службу й досягнення у 2021 році.",
         "rarity": null,
         "type": "Service Medal",
@@ -2201,7 +2233,7 @@
     },
     {
         "id": "collectible-4741",
-        "name": "Медаль за службу у 2021",
+        "name": "Медаль за службу 2021",
         "description": "Нагороджено за видатну службу й досягнення у 2021 році.",
         "rarity": null,
         "type": "Service Medal",
@@ -2209,7 +2241,7 @@
     },
     {
         "id": "collectible-4742",
-        "name": "Медаль за службу у 2021",
+        "name": "Медаль за службу 2021",
         "description": "Нагороджено за видатну службу й досягнення у 2021 році.",
         "rarity": null,
         "type": "Service Medal",
@@ -2217,7 +2249,7 @@
     },
     {
         "id": "collectible-4743",
-        "name": "Медаль за службу у 2021",
+        "name": "Медаль за службу 2021",
         "description": "Нагороджено за видатну службу й досягнення у 2021 році.",
         "rarity": null,
         "type": "Service Medal",
@@ -2361,7 +2393,7 @@
     },
     {
         "id": "collectible-4827",
-        "name": "null",
+        "name": "Монета «Антверпен 2022»",
         "description": null,
         "rarity": null,
         "type": "Pick'Em Coin",
@@ -2369,7 +2401,7 @@
     },
     {
         "id": "collectible-4828",
-        "name": "null",
+        "name": "Срібна монета «Антверпен 2022»",
         "description": null,
         "rarity": null,
         "type": "Pick'Em Coin",

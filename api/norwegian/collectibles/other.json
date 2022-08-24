@@ -22,5 +22,13 @@
         "rarity": null,
         "type": null,
         "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/prime_badge_large.png"
+    },
+    {
+        "id": "collectible-988",
+        "name": "10-årsdagsmynt",
+        "description": "Feiret CS:GOs 10-årsdag med CS:GO-samfunnet.\\n\\n<i>En feiring av ti år med hodeskudd, clutch-er og fellesskap. Gratulerer med 10-årsdagen, CS:GO!</i>",
+        "rarity": null,
+        "type": null,
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/status_icons/cupcake_10_year_large.png"
     }
 ]

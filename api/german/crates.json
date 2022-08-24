@@ -2682,6 +2682,7 @@
     {
         "id": "crate-4832",
         "name": "Aufkleberkapsel „Antwerpen 2022 – Legenden“",
+        "description": "Diese Kapsel enthält einen einzelnen Legenden-Aufkleber zur PGL Antwerpen 2022 (Hohe Qualität, Glitzer, Holo oder Gold).\\n\\n50 % der Erlöse durch den Verkauf dieser Kapsel unterstützen die teilnehmenden Organisationen.\\n\\nDer Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
         "type": "Sticker Capsule",
         "first_sale_date": null,
         "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_sticker_pack_antwerp2022_legends.png"
@@ -2689,6 +2690,7 @@
     {
         "id": "crate-4833",
         "name": "Aufkleberkapsel „Antwerpen 2022 – Herausforderer“",
+        "description": "Diese Kapsel enthält einen einzelnen Herausforderer-Aufkleber zur PGL Antwerpen 2022 (Hohe Qualität, Glitzer, Holo oder Gold).\\n\\n50 % der Erlöse durch den Verkauf dieser Kapsel unterstützen die teilnehmenden Organisationen.\\n\\nDer Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
         "type": "Sticker Capsule",
         "first_sale_date": null,
         "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_sticker_pack_antwerp2022_challengers.png"
@@ -2696,6 +2698,7 @@
     {
         "id": "crate-4834",
         "name": "Aufkleberkapsel „Antwerpen 2022 – Anwärter“",
+        "description": "Diese Kapsel enthält einen einzelnen Anwärter-Aufkleber zur PGL Antwerpen 2022 (Hohe Qualität, Glitzer, Holo oder Gold).\\n\\n50 % der Erlöse durch den Verkauf dieser Kapsel unterstützen die teilnehmenden Organisationen.\\n\\nDer Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
         "type": "Sticker Capsule",
         "first_sale_date": null,
         "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_sticker_pack_antwerp2022_contenders.png"
@@ -2758,21 +2761,24 @@
     },
     {
         "id": "crate-4842",
-        "name": null,
+        "name": "Autogrammkapsel „Antwerpen 2022 – Legenden“",
+        "description": "Diese Kapsel enthält einen einzelnen Aufkleber (Hohe Qualität, Glitzer, Holo oder Gold), der von einem der Legendenspieler der PGL Antwerpen 2022 signiert wurde.\\n\\n50 % der Erlöse durch den Verkauf dieser Kapsel unterstützen die beteiligten Spieler und Organisationen.\\n\\nDer Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
         "type": "Autograph Capsule",
         "first_sale_date": null,
         "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_sticker_pack_antwerp2022_group_legends.png"
     },
     {
         "id": "crate-4843",
-        "name": null,
+        "name": "Autogrammkapsel „Antwerpen 2022 – Herausforderer“",
+        "description": "Diese Kapsel enthält einen einzelnen Aufkleber (Hohe Qualität, Glitzer, Holo oder Gold), der von einem der Herausfordererspieler der PGL Antwerpen 2022 signiert wurde.\\n\\n50 % der Erlöse durch den Verkauf dieser Kapsel unterstützen die beteiligten Spieler und Organisationen.\\n\\nDer Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
         "type": "Autograph Capsule",
         "first_sale_date": null,
         "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_sticker_pack_antwerp2022_group_challengers.png"
     },
     {
         "id": "crate-4844",
-        "name": null,
+        "name": "Autogrammkapsel „Antwerpen 2022 – Anwärter“",
+        "description": "Diese Kapsel enthält einen einzelnen Aufkleber (Hohe Qualität, Glitzer, Holo oder Gold), der von einem der Anwärterspieler der PGL Antwerpen 2022 signiert wurde.\\n\\n50 % der Erlöse durch den Verkauf dieser Kapsel unterstützen die beteiligten Spieler und Organisationen.\\n\\nDer Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
         "type": "Autograph Capsule",
         "first_sale_date": null,
         "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_sticker_pack_antwerp2022_group_contenders.png"
@@ -2780,16 +2786,41 @@
     {
         "id": "crate-4845",
         "name": "Autogrammkapsel „Antwerpen 2022 – Meister“",
+        "description": "Diese Kapsel enthält einen einzelnen Aufkleber (Hohe Qualität, Glitzer, Holo oder Gold), der von einem der Meisterspieler der PGL Antwerpen 2022 signiert wurde.\\n\\n50 % der Erlöse durch den Verkauf dieser Kapsel unterstützen die beteiligten Spieler und Organisationen.\\n\\nDer Aufkleber kann an jede Ihrer Waffen angebracht und abgekratzt werden, um abgenutzter auszusehen. Sie können einen Aufkleber mehrmals abkratzen, wodurch er jedes Mal etwas abgenutzter wird, bevor er gänzlich von der Waffe entfernt wird.",
         "type": "Autograph Capsule",
         "first_sale_date": null,
         "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_sticker_pack_antwerp2022_group_champions.png"
     },
     {
         "id": "crate-4846",
-        "name": null,
+        "name": "Waffenkiste „Rückstoß“",
         "description": null,
         "type": "Case",
         "first_sale_date": "2022-05-30",
         "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_community_31.png"
+    },
+    {
+        "id": "crate-4847",
+        "name": "Aufkleberkapsel „10. Geburtstag“",
+        "description": "Diese Kapsel enthält einige von Künstlern des Steam Workshops entworfene Aufkleber, die den 10. Geburtstag von CS:GO feiern.",
+        "type": "Sticker Capsule",
+        "first_sale_date": "2022/06/15",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_sticker_pack_csgo10_capsule.png"
+    },
+    {
+        "id": "crate-4848",
+        "name": null,
+        "description": null,
+        "type": "Music Kit Box",
+        "first_sale_date": "2022/08/15",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_musickit_initiators_capsule.png"
+    },
+    {
+        "id": "crate-4849",
+        "name": null,
+        "description": null,
+        "type": "Music Kit Box",
+        "first_sale_date": "2022/08/15",
+        "image": "https://raw.githubusercontent.com/SteamDatabase/GameTracking-CSGO/master/csgo/pak01_dir/resource/flash/econ/weapon_cases/crate_musickit_initiators_stattrak_capsule.png"
     }
 ]
