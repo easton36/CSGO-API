@@ -3838,7 +3838,7 @@
         "special_notes": [
             {
                 "source": "https://steamcommunity.com/games/CSGO/announcements/detail/1751086783896069815",
-                "text": "Some skins like M4A4 | Howl were removed and replaced for others due to art theft."
+                "text": "Some skins (M4A4 Howl, USP-S Orion, MAC-10 Curse, CZ75-Auto Poison Dart, Dual Berettas Retribution and P90 Desert Warfare) were removed and replaced for others due to art theft."
             }
         ],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_3.ce832a92f9fc329dc87d7a802374b918b07cdb84.png"
@@ -41843,7 +41843,7 @@
         "name": "Pack d'écussons de Stockholm 2021 des équipes légendes",
         "description": "Ce pack contient un seul écusson d'une équipe participant au tournoi de Stockholm 2021 de qualité supérieure ou brodé en or.\\n\\nLa moitié des recettes de ce pack est directement reversée à l'équipe concernée pour la soutenir.\\n\\nLes écussons peuvent être appliqués sur n'importe quel personnage que vous possédez.",
         "type": "Patch Capsule",
-        "first_sale_date": null,
+        "first_sale_date": "2021-10-10",
         "contains": [
             {
                 "id": "patch-5079",
@@ -41944,7 +41944,7 @@
         "name": "Pack d'écussons de Stockholm 2021 des équipes challengers",
         "description": "Ce pack contient un seul écusson d'une équipe participant au tournoi de Stockholm 2021 de qualité supérieure ou brodé en or.\\n\\nLa moitié des recettes de ce pack est directement reversée à l'équipe concernée pour la soutenir.\\n\\nLes écussons peuvent être appliqués sur n'importe quel personnage que vous possédez.",
         "type": "Patch Capsule",
-        "first_sale_date": null,
+        "first_sale_date": "2021-10-10",
         "contains": [
             {
                 "id": "patch-5095",
@@ -42045,7 +42045,7 @@
         "name": "Pack d'écussons de Stockholm 2021 des équipes participantes",
         "description": "Ce pack contient un seul écusson d'une équipe participant au tournoi de Stockholm 2021 de qualité supérieure ou brodé en or.\\n\\nLa moitié des recettes de ce pack est directement reversée à l'équipe concernée pour la soutenir.\\n\\nLes écussons peuvent être appliqués sur n'importe quel personnage que vous possédez.",
         "type": "Patch Capsule",
-        "first_sale_date": null,
+        "first_sale_date": "2021-10-10",
         "contains": [
             {
                 "id": "patch-5111",

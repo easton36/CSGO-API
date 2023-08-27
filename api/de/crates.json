@@ -3838,7 +3838,7 @@
         "special_notes": [
             {
                 "source": "https://steamcommunity.com/games/CSGO/announcements/detail/1751086783896069815",
-                "text": "Some skins like M4A4 | Howl were removed and replaced for others due to art theft."
+                "text": "Some skins (M4A4 Howl, USP-S Orion, MAC-10 Curse, CZ75-Auto Poison Dart, Dual Berettas Retribution and P90 Desert Warfare) were removed and replaced for others due to art theft."
             }
         ],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_3.ce832a92f9fc329dc87d7a802374b918b07cdb84.png"
@@ -41843,7 +41843,7 @@
         "name": "Aufnäherpaket „Stockholm 2021 – Legenden“",
         "description": "Dieses Paket enthält einen einzelnen Teilnehmer-Aufnäher zur PGL Stockholm 2021 (Hohe Qualität oder mit Goldstickerei).\\n\\n50 % der Erlöse durch den Verkauf dieses Pakets unterstützen die teilnehmenden Organisationen.\\n\\nAufnäher können an einen Ihrer Agenten angebracht werden.",
         "type": "Patch Capsule",
-        "first_sale_date": null,
+        "first_sale_date": "2021-10-10",
         "contains": [
             {
                 "id": "patch-5079",
@@ -41944,7 +41944,7 @@
         "name": "Aufnäherpaket „Stockholm 2021 – Herausforderer“",
         "description": "Dieses Paket enthält einen einzelnen Teilnehmer-Aufnäher zur PGL Stockholm 2021 (Hohe Qualität oder mit Goldstickerei).\\n\\n50 % der Erlöse durch den Verkauf dieses Pakets unterstützen die teilnehmenden Organisationen.\\n\\nAufnäher können an einen Ihrer Agenten angebracht werden.",
         "type": "Patch Capsule",
-        "first_sale_date": null,
+        "first_sale_date": "2021-10-10",
         "contains": [
             {
                 "id": "patch-5095",
@@ -42045,7 +42045,7 @@
         "name": "Aufnäherpaket „Stockholm 2021 – Anwärter“",
         "description": "Dieses Paket enthält einen einzelnen Teilnehmer-Aufnäher zur PGL Stockholm 2021 (Hohe Qualität oder mit Goldstickerei).\\n\\n50 % der Erlöse durch den Verkauf dieses Pakets unterstützen die teilnehmenden Organisationen.\\n\\nAufnäher können an einen Ihrer Agenten angebracht werden.",
         "type": "Patch Capsule",
-        "first_sale_date": null,
+        "first_sale_date": "2021-10-10",
         "contains": [
             {
                 "id": "patch-5111",

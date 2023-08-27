@@ -3838,7 +3838,7 @@
         "special_notes": [
             {
                 "source": "https://steamcommunity.com/games/CSGO/announcements/detail/1751086783896069815",
-                "text": "Some skins like M4A4 | Howl were removed and replaced for others due to art theft."
+                "text": "Some skins (M4A4 Howl, USP-S Orion, MAC-10 Curse, CZ75-Auto Poison Dart, Dual Berettas Retribution and P90 Desert Warfare) were removed and replaced for others due to art theft."
             }
         ],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_3.ce832a92f9fc329dc87d7a802374b918b07cdb84.png"
@@ -41843,7 +41843,7 @@
         "name": "Stockholm 2021 傳奇補丁包",
         "description": "此補丁包內含單個 Stockholm 2021 參賽隊伍的高級或黃金刺繡補丁。\\n\\n50% 的補丁包收益將用於支持其中的組織團體。\\n\\n補丁可用於任何您持有的幹員。",
         "type": "Patch Capsule",
-        "first_sale_date": null,
+        "first_sale_date": "2021-10-10",
         "contains": [
             {
                 "id": "patch-5079",
@@ -41944,7 +41944,7 @@
         "name": "Stockholm 2021 挑戰者補丁包",
         "description": "此補丁包內含單個 Stockholm 2021 參賽隊伍的高級或黃金刺繡補丁。\\n\\n50% 的補丁包收益將用於支持其中的組織團體。\\n\\n補丁可用於任何您持有的幹員。",
         "type": "Patch Capsule",
-        "first_sale_date": null,
+        "first_sale_date": "2021-10-10",
         "contains": [
             {
                 "id": "patch-5095",
@@ -42045,7 +42045,7 @@
         "name": "Stockholm 2021 競爭者補丁包",
         "description": "此補丁包內含單個 Stockholm 2021 參賽隊伍的高級或黃金刺繡補丁。\\n\\n50% 的補丁包收益將用於支持其中的組織團體。\\n\\n補丁可用於任何您持有的幹員。",
         "type": "Patch Capsule",
-        "first_sale_date": null,
+        "first_sale_date": "2021-10-10",
         "contains": [
             {
                 "id": "patch-5111",

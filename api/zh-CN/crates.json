@@ -3838,7 +3838,7 @@
         "special_notes": [
             {
                 "source": "https://steamcommunity.com/games/CSGO/announcements/detail/1751086783896069815",
-                "text": "Some skins like M4A4 | Howl were removed and replaced for others due to art theft."
+                "text": "Some skins (M4A4 Howl, USP-S Orion, MAC-10 Curse, CZ75-Auto Poison Dart, Dual Berettas Retribution and P90 Desert Warfare) were removed and replaced for others due to art theft."
             }
         ],
         "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_community_3.ce832a92f9fc329dc87d7a802374b918b07cdb84.png"
@@ -41843,7 +41843,7 @@
         "name": "2021年斯德哥尔摩锦标赛传奇组布章包",
         "description": "这个布章包含有一枚2021年斯德哥尔摩锦标赛参赛者普通或金色刺绣布章。\\n\\n销售此布章包的 50% 所得部分款项将用于支持该胶囊的俱乐部。\\n\\n布章可以应用到您拥有的任意探员身上。",
         "type": "Patch Capsule",
-        "first_sale_date": null,
+        "first_sale_date": "2021-10-10",
         "contains": [
             {
                 "id": "patch-5079",
@@ -41944,7 +41944,7 @@
         "name": "2021年斯德哥尔摩锦标赛挑战组布章包",
         "description": "这个布章包含有一枚2021年斯德哥尔摩锦标赛参赛者普通或金色刺绣布章。\\n\\n销售此布章包的 50% 所得部分款项将用于支持该胶囊的俱乐部。\\n\\n布章可以应用到您拥有的任意探员身上。",
         "type": "Patch Capsule",
-        "first_sale_date": null,
+        "first_sale_date": "2021-10-10",
         "contains": [
             {
                 "id": "patch-5095",
@@ -42045,7 +42045,7 @@
         "name": "2021年斯德哥尔摩锦标赛竞争组布章包",
         "description": "这个布章包含有一枚2021年斯德哥尔摩锦标赛参赛者普通或金色刺绣布章。\\n\\n销售此布章包的 50% 所得部分款项将用于支持该胶囊的俱乐部。\\n\\n布章可以应用到您拥有的任意探员身上。",
         "type": "Patch Capsule",
-        "first_sale_date": null,
+        "first_sale_date": "2021-10-10",
         "contains": [
             {
                 "id": "patch-5111",
