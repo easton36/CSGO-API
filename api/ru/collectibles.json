@@ -7305,6 +7305,66 @@
   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/premier_seasons/premier_season_3_coin_75_png.png"
  },
  {
+  "id": "collectible-5177",
+  "name": "Golden Map Coin",
+  "description": "Commemorates authorship of the CS2 Map 'Golden'",
+  "paint_index": "5177",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "экстраординарного типа",
+   "color": "#eb4b4b"
+  },
+  "type": "Map Contributor Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_golden_png.png"
+ },
+ {
+  "id": "collectible-5178",
+  "name": "Rooftop Map Coin",
+  "description": "Commemorates authorship of the CS2 Map 'Rooftop'",
+  "paint_index": "5178",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "экстраординарного типа",
+   "color": "#eb4b4b"
+  },
+  "type": "Map Contributor Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_rooftop_png.png"
+ },
+ {
+  "id": "collectible-5179",
+  "name": "Palacio Map Coin",
+  "description": "Commemorates authorship of the CS2 Map 'Palacio'",
+  "paint_index": "5179",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "экстраординарного типа",
+   "color": "#eb4b4b"
+  },
+  "type": "Map Contributor Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_palacio_png.png"
+ },
+ {
+  "id": "collectible-5180",
+  "name": "Transit Map Coin",
+  "description": "Commemorates authorship of the CS2 Map 'Transit'",
+  "paint_index": "5180",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "экстраординарного типа",
+   "color": "#eb4b4b"
+  },
+  "type": "Map Contributor Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_transit_png.png"
+ },
+ {
   "id": "collectible-6001",
   "name": "Высшей пробы Значок: Dust II",
   "description": "Коллекционный значок первой серии. Его можно выставить напоказ в своём профиле.",
