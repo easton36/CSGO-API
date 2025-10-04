@@ -403,7 +403,7 @@
    },
    {
     "id": "skin-f5dbec4db0bf",
-    "name": "Sawed-Off | Пиксельный камуфляж «Ржавчина»",
+    "name": "Обрез | Пиксельный камуфляж «Ржавчина»",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Запрещённое",
@@ -1075,7 +1075,7 @@
    },
    {
     "id": "skin-eeeab72c939a",
-    "name": "Sawed-Off | Кракен",
+    "name": "Обрез | Кракен",
     "rarity": {
      "id": "rarity_ancient_weapon",
      "name": "Тайное",
@@ -1860,7 +1860,7 @@
    },
    {
     "id": "skin-9fa47155a8a8",
-    "name": "Sawed-Off | Разбойник",
+    "name": "Обрез | Разбойник",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Запрещённое",
@@ -2028,7 +2028,7 @@
    },
    {
     "id": "skin-43a9e7d8242e",
-    "name": "Sawed-Off | Безмятежность",
+    "name": "Обрез | Безмятежность",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Запрещённое",
@@ -2163,7 +2163,7 @@
    },
    {
     "id": "skin-628ddc6f56d0",
-    "name": "Sawed-Off | Оригами",
+    "name": "Обрез | Оригами",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Армейское качество",
@@ -2336,7 +2336,7 @@
    },
    {
     "id": "skin-9459e126b14a",
-    "name": "Sawed-Off | Медь",
+    "name": "Обрез | Медь",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Армейское качество",
@@ -2849,7 +2849,7 @@
    },
    {
     "id": "skin-279d95d3dd65",
-    "name": "Sawed-Off | Радиоактивная опасность",
+    "name": "Обрез | Радиоактивная опасность",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Ширпотреб",
@@ -3181,7 +3181,7 @@
    },
    {
     "id": "skin-f0876073bc4d",
-    "name": "Sawed-Off | Мозаика",
+    "name": "Обрез | Мозаика",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Промышленное качество",
@@ -3409,7 +3409,7 @@
    },
    {
     "id": "skin-bacf6f1cd605",
-    "name": "Sawed-Off | Змеиная кожа",
+    "name": "Обрез | Змеиная кожа",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Промышленное качество",
@@ -3731,7 +3731,7 @@
    },
    {
     "id": "skin-c43661e243fc",
-    "name": "Sawed-Off | Янтарный градиент",
+    "name": "Обрез | Янтарный градиент",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Армейское качество",
@@ -4164,7 +4164,7 @@
    },
    {
     "id": "skin-5399c334e3b4",
-    "name": "Sawed-Off | Полная остановка",
+    "name": "Обрез | Полная остановка",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Армейское качество",
@@ -4579,7 +4579,7 @@
    },
    {
     "id": "skin-e34d4776c3fa",
-    "name": "Sawed-Off | Пиксельный камуфляж «Лес»",
+    "name": "Обрез | Пиксельный камуфляж «Лес»",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Ширпотреб",
@@ -4876,7 +4876,7 @@
    },
    {
     "id": "skin-358cc1547e49",
-    "name": "Sawed-Off | Белое напыление",
+    "name": "Обрез | Белое напыление",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Ширпотреб",
@@ -5144,7 +5144,7 @@
    },
    {
     "id": "skin-fffd8c3e6f34",
-    "name": "Sawed-Off | Пыльник",
+    "name": "Обрез | Пыльник",
     "rarity": {
      "id": "rarity_uncommon_weapon",
      "name": "Промышленное качество",
@@ -5339,7 +5339,7 @@
    },
    {
     "id": "skin-74b1243eefd1",
-    "name": "Sawed-Off | Первый класс",
+    "name": "Обрез | Первый класс",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Армейское качество",
@@ -5982,7 +5982,7 @@
    },
    {
     "id": "skin-a6b38e973280",
-    "name": "Sawed-Off | Тень бамбука",
+    "name": "Обрез | Тень бамбука",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Ширпотреб",
@@ -6585,7 +6585,7 @@
    },
    {
     "id": "skin-e62659639aba",
-    "name": "Sawed-Off | Йорик",
+    "name": "Обрез | Йорик",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Армейское качество",
@@ -7366,7 +7366,7 @@
    },
    {
     "id": "skin-f1e77412769d",
-    "name": "Sawed-Off | Стоп-сигнал",
+    "name": "Обрез | Стоп-сигнал",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Армейское качество",
@@ -7526,7 +7526,7 @@
    },
    {
     "id": "skin-a7997cc94140",
-    "name": "Sawed-Off | Ветеран",
+    "name": "Обрез | Ветеран",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Армейское качество",
@@ -7793,7 +7793,7 @@
    },
    {
     "id": "skin-33872c48a8e5",
-    "name": "Sawed-Off | В центре внимания",
+    "name": "Обрез | В центре внимания",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Запрещённое",
@@ -8228,7 +8228,7 @@
    },
    {
     "id": "skin-9a257b12e3fd",
-    "name": "Sawed-Off | Принцесса пустошей",
+    "name": "Обрез | Принцесса пустошей",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "Засекреченное",
@@ -8341,7 +8341,7 @@
    },
    {
     "id": "skin-68e37aff8fd3",
-    "name": "Sawed-Off | Судак",
+    "name": "Обрез | Судак",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Армейское качество",
@@ -8677,7 +8677,7 @@
   "contains": [
    {
     "id": "skin-9be5df6c224c",
-    "name": "Sawed-Off | Моррис",
+    "name": "Обрез | Моррис",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Армейское качество",
@@ -9241,7 +9241,7 @@
    },
    {
     "id": "skin-9d723cee972d",
-    "name": "Sawed-Off | Пожиратель",
+    "name": "Обрез | Пожиратель",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "Засекреченное",
@@ -9326,7 +9326,7 @@
    },
    {
     "id": "skin-cec820187789",
-    "name": "Sawed-Off | Тропическая чаща",
+    "name": "Обрез | Тропическая чаща",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Ширпотреб",
@@ -10615,7 +10615,7 @@
    },
    {
     "id": "skin-d85d77873f80",
-    "name": "Sawed-Off | Чёрный песок",
+    "name": "Обрез | Чёрный песок",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Армейское качество",
@@ -11439,7 +11439,7 @@
    },
    {
     "id": "skin-8a48b06ac368",
-    "name": "Sawed-Off | Сушь",
+    "name": "Обрез | Сушь",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Ширпотреб",
@@ -11959,7 +11959,7 @@
    },
    {
     "id": "skin-db4ae843fbd7",
-    "name": "Sawed-Off | Апокалипто",
+    "name": "Обрез | Апокалипто",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Запрещённое",
@@ -12707,7 +12707,7 @@
    },
    {
     "id": "skin-cbf2a44a9320",
-    "name": "Sawed-Off | Глиняная засада",
+    "name": "Обрез | Глиняная засада",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Ширпотреб",
@@ -14364,7 +14364,7 @@
    },
    {
     "id": "skin-3da25779ee2d",
-    "name": "Sawed-Off | Спиритическая доска",
+    "name": "Обрез | Спиритическая доска",
     "rarity": {
      "id": "rarity_rare_weapon",
      "name": "Армейское качество",
@@ -14653,7 +14653,7 @@
    },
    {
     "id": "skin-6f81f65a9d91",
-    "name": "Sawed-Off | Лафки♥Чмафки",
+    "name": "Обрез | Лафки♥Чмафки",
     "rarity": {
      "id": "rarity_legendary_weapon",
      "name": "Засекреченное",
@@ -15022,7 +15022,7 @@
    },
    {
     "id": "skin-d0653c0aaf2f",
-    "name": "Sawed-Off | Аналоговый ввод",
+    "name": "Обрез | Аналоговый ввод",
     "rarity": {
      "id": "rarity_mythical_weapon",
      "name": "Запрещённое",
@@ -16251,7 +16251,7 @@
   "contains": [
    {
     "id": "skin-f2dd022eab22",
-    "name": "Sawed-Off | Сток",
+    "name": "Обрез | Сток",
     "rarity": {
      "id": "rarity_common_weapon",
      "name": "Ширпотреб",

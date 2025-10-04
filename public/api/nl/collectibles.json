@@ -7306,8 +7306,8 @@
  },
  {
   "id": "collectible-5177",
-  "name": "Golden Map Coin",
-  "description": "Commemorates authorship of the CS2 Map 'Golden'",
+  "name": "Golden-mapmunt",
+  "description": "Uitgereikt aan de makers van de CS2-map 'Golden'",
   "paint_index": "5177",
   "rarity": {
    "id": "rarity_ancient",
@@ -7321,8 +7321,8 @@
  },
  {
   "id": "collectible-5178",
-  "name": "Rooftop Map Coin",
-  "description": "Commemorates authorship of the CS2 Map 'Rooftop'",
+  "name": "Rooftop-mapmunt",
+  "description": "Uitgereikt aan de makers van de CS2-map 'Rooftop'",
   "paint_index": "5178",
   "rarity": {
    "id": "rarity_ancient",
@@ -7336,8 +7336,8 @@
  },
  {
   "id": "collectible-5179",
-  "name": "Palacio Map Coin",
-  "description": "Commemorates authorship of the CS2 Map 'Palacio'",
+  "name": "Palacio-mapmunt",
+  "description": "Uitgereikt aan de makers van de CS2-map 'Palacio'",
   "paint_index": "5179",
   "rarity": {
    "id": "rarity_ancient",
@@ -7351,8 +7351,8 @@
  },
  {
   "id": "collectible-5180",
-  "name": "Transit Map Coin",
-  "description": "Commemorates authorship of the CS2 Map 'Transit'",
+  "name": "Transit-mapmunt",
+  "description": "Uitgereikt aan de makers van de CS2-map 'Transit'",
   "paint_index": "5180",
   "rarity": {
    "id": "rarity_ancient",
